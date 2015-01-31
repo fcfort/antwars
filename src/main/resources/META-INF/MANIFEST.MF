@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Martin Lund Askøe (martinlundaskoe@gmail.com)
+Main-Class: dk.antwars.core.game.GameLoader
